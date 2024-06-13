@@ -36,8 +36,7 @@ export default function About() {
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I am currently looking for jobs. I worked on reactJs, NextJs, Material-UI,Redux,Tailwind,Javascript, Java and many more. I am
-            also looking to collaborate in open-source projects.
+            I am currently working as a Software Developer at TechPyro in Haridwar, with strong problem-solving skills and proficiency in MERN and Java Full Stack Development. 
           </p>
         </div>
 
@@ -62,8 +61,8 @@ export default function About() {
           
           <button className="py-3 max-md:py-1 max-md:mb-4 max-md:px-4 mt-5 text-white  max-md:text-center mx-auto px-9 bg-blue-600 border-2 w-fit border-blue-500 rounded-3xl  hover:-translate-y-1.5 duration-[350ms] hover:duration-[350ms] hover:bg-blue-800 hover:scale-[1.023] focus:bg-blue-800 animate-zoomy">
             <a
-               href={require("../../assets/files/ANSHYADAVRESUME.pdf")}
-              download={"ANSHYADAVRESUME.pdf"}
+               href={require("../../assets/files/Java_Full_Stack_Resume.pdf")}
+              download={"Java_Full_Stack_Resume.pdf"}
             >
               Download CV
               <DownloadIcon />

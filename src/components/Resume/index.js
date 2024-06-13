@@ -258,6 +258,8 @@ export default function Resume() {
           <div className="text-3xl font-bold py-3">My Skills</div>
           <div className="ml-16 flex flex-col gap-8 mt-6">
             <BarGraph name={"JavaScript"} percent={65} />
+            <BarGraph name={"Spring Boot"} percent={75} />
+            <BarGraph name={"Docker"} percent={70} />
             <BarGraph name={"React"} percent={75} />
             <BarGraph name={"Tailwind"} percent={60} />
             <BarGraph name={"Java"} percent={80} />
@@ -270,8 +272,8 @@ export default function Resume() {
           </div>
 
           <a
-            // href={require("../../assets/files/Ansh_Yadav_Resume")}
-            download={"Ansh_Yadav_Resume"}
+           href={require("../../assets/files/Java_Full_Stack_Resume.pdf")}
+            download={"Java_Full_Stack_Resume.pdf"}
             class="inline-flex items-center px-6 py-2 mt-12 mx-auto w-fit text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
           >
             Download CV <DownloadIcon />

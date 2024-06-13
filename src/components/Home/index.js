@@ -25,8 +25,8 @@ export default function Home() {
           options={{
             strings: [
               "✋I'm Ansh Yadav",
-              "I'm an enthusiast Full Stack Web 🌐developer and Strong Problem Solving Skill",
-              "I'm a 4th yr CSE 👨‍🎓 in GKV Haridwar",
+              "I'm an enthusiast Full Stack Web 🌐 Developer with a strong foundation in both MERN Stack and Java Full Stack Development",
+              "I'm currently working at TechPyro in Haridwar and have completed my B.Tech in Computer Science and Engineering at Gurukula Kangri Vishwavidyalaya (GKV), Haridwar, Uttarakhand. 👨‍🎓",
               "You can 📲 me through discord or ✉️",
             ],
             delay: 150,
